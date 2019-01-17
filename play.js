@@ -174,7 +174,7 @@ function updategamearea() {
 
 }
 document.addEventListener("keydown", function () {
-    accelerate(-8);
+    // accelerate(-8);
 }, false);
 document.addEventListener("keyup", function () {
     //accelerate(0.1);
