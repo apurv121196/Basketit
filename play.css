@@ -1,0 +1,48 @@
+#main {
+    background-color: #fefcff;
+    margin: 0px;
+}
+
+body {
+    background-color: #d06820;
+    padding: 0px;
+    margin: 0px;
+}
+
+.lets_start {
+    background-color: #555555;
+    font-size: 24px;
+    color: white;
+    border: none;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    cursor: pointer;
+    position: absolute;
+    top: 60%;
+    left: 5%;
+    outline: none;
+}
+
+#rotate {
+    top: 5%;
+    left: 41%;
+    padding: 20px;
+    border-radius: 0px;
+}
+
+#power {
+    top: 16%;
+    left: 40%;
+    padding: 20px;
+}
+
+#one {
+    top: 60%;
+    left: 40%;
+}
+
+#two {
+    top: 70%;
+    left: 40%;
+}
